@@ -1,2 +1,2 @@
 # Template-Two
-With html and css
+With HTML and CSS
